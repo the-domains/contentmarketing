@@ -1,6 +1,6 @@
 name: contentmarketing
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.0669213393703103
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.8854508539661765
